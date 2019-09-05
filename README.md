@@ -5,7 +5,7 @@ managehub360 is point of sale system built with Ruby on Rails and Twitter Bootst
 ## Getting Started
 
 ```
-git clone https://faizu_ali@bitbucket.org/faizu_ali/managehub360.git
+git clone git@github.com:farooqch11/tend360.git
 ```
 
 ```
